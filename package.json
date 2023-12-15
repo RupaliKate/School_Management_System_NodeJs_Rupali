@@ -1,0 +1,29 @@
+{
+  "name": "apismsr",
+  "version": "1.0.0",
+  "description": "api of the school management system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RupaliKate/School_Management_System_NodeJs_Rupali"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/RupaliKate/School_Management_System_NodeJs_Rupali"
+  },
+  "homepage": "https://github.com/RupaliKate/School_Management_System_NodeJs_Rupali#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "helmet": "^4.6.0",
+    "mongodb": "^4.17.2"
+  }
+}
